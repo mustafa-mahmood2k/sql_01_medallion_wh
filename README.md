@@ -24,6 +24,4 @@ Project sequence:
     - Creating empty tables using Data Definition Language (06_silver_ddl)
     - Loading transformed bronze layer data into empty silver tables (07_silver_load)
     - Conducting various data validation tests on the transformed data (08_silver_checks)
-       No further transformations required
-    - 
       
