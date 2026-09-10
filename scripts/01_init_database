@@ -7,7 +7,7 @@ Purpose:
 	Create an empty database called 'first_medallion_wh'.
 	Create three schemas (bronze, silver, gold) that define the blueprint of the medallion warehouse database architecture.
  
- Steps taken:
+Steps taken:
  	1. Conducting a conditional check to see if there already exists a database with that name in the system.
  		 If it does exist, the system sets it such that only one user can access that database at a time, then cancels all running transactions and closes open connections.
  		 The database is then dropped from the system.
