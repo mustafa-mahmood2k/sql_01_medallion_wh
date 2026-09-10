@@ -1,7 +1,7 @@
 /* 
- =================================
+ =====================================
  Initialising the Database and Schemas
- =================================
+ =====================================
 
 Purpose:
 	Create an empty database called 'first_medallion_wh'.
