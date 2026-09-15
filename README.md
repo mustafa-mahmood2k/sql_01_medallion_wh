@@ -50,7 +50,7 @@ This warehouse follows the **Medallion architecture**, moving data through three
 
 The gold layer is modelled as a **star schema**:
 
-![Star Schema](docs/star_schema.png)
+![Star Schema](docs/data_model.png)
 *Replace with your star schema diagram.*
 
 - **`gold.fact_sales`** — one row per sales order line, with measures (`sales_amount`, `quantity`, `price`) and foreign keys to the dimensions below.
