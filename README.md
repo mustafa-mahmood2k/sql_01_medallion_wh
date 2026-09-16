@@ -3,7 +3,7 @@
 A SQL Server data warehouse built end-to-end from raw CRM and ERP source files to an analytics-ready star schema, using the Medallion (bronze / silver / gold) architecture. The project covers the full pipeline: automated ETL via stored procedures, data quality validation at every layer, and a dimensional model designed for BI reporting.
 
 ![Data Architecture](docs/data_architecture.png)
-*Replace with your architecture diagram — bronze/silver/gold flow.*
+
 
 ## What this project demonstrates
 
